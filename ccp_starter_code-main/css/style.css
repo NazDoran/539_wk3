@@ -1,0 +1,32 @@
+body{
+    color: #fff;
+    background-color: #16360a;
+    margin-left: 10px;
+}
+#my_heading{
+    color: beige;
+}
+h1{
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+p{
+    line-height: 1.5;
+}
+img{
+    margin: 20px;
+    padding: 10px;
+    border: solid 2px #fff;
+    border-top-right-radius: 30px;
+}
+li{
+    color:azure;
+    display: inline-block;
+    margin-left: 50px;
+}
